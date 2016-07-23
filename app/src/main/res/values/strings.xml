@@ -1,0 +1,32 @@
+<resources>
+<string name="app_name">Fragmentassignment</string>
+<string name="app_name1">ListFragmentDemo</string>
+<string name="action_settings">Settings</string>
+<string name="hello_world">Hello world!</string>
+<string name="imgdesc">imgdesc</string>
+
+<string-array name="Planets">
+    <item>Layout1</item>
+    <item>Layout2</item>
+    <item>Layout3</item>
+    <item>Layout4</item>
+</string-array>
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Tutorials</item>
+        <item>My Apps</item>
+        <item>OS Versions</item>
+        <item>Tools</item>
+        <item>About Us</item>
+    </string-array>
+
+    <array name="icons">
+        <item>@drawable/tick</item>
+        <item>@drawable/recorder</item>
+        <item>@drawable/images</item>
+        <item>@drawable/tick</item>
+        <item>@drawable/recorder</item>
+        <item>@drawable/images</item>
+    </array>
+
+</resources>
